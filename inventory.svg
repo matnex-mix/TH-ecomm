@@ -1,0 +1,4514 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="inventory.svg">
+  <defs
+     id="defs2">
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1533"
+       x="-0.032613689"
+       width="1.0652274"
+       y="-0.041211844"
+       height="1.0824237">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5145171"
+         id="feGaussianBlur1535" />
+    </filter>
+    <filter
+       height="1.0824237"
+       y="-0.041211843"
+       width="1.0652274"
+       x="-0.032613687"
+       id="filter1533-8"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1535-0"
+         stdDeviation="1.5145171"
+         inkscape:collect="always" />
+    </filter>
+    <clipPath
+       id="clipPath1656"
+       clipPathUnits="userSpaceOnUse">
+      <ellipse
+         style="fill:#550000;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse1658"
+         cx="367.76288"
+         cy="128.28935"
+         rx="26.994219"
+         ry="27.261492" />
+    </clipPath>
+    <clipPath
+       id="clipPath1660"
+       clipPathUnits="userSpaceOnUse">
+      <ellipse
+         transform="rotate(171.88949)"
+         style="fill:#550000;fill-opacity:1;stroke-width:0.335038"
+         id="ellipse1662"
+         cx="-302.98047"
+         cy="-134.1936"
+         rx="43.28484"
+         ry="27.261492" />
+    </clipPath>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1533-8-7"
+       x="-0.032613687"
+       width="1.0652274"
+       y="-0.041211843"
+       height="1.0824237">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5145171"
+         id="feGaussianBlur1535-0-9" />
+    </filter>
+    <filter
+       height="1.0824237"
+       y="-0.041211843"
+       width="1.0652274"
+       x="-0.032613687"
+       id="filter1533-8-7-0"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur1535-0-9-2"
+         stdDeviation="1.5145171"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       height="2.0188678"
+       y="-0.50943392"
+       width="1.7641509"
+       x="-0.38207545"
+       id="filter2190"
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always">
+      <feGaussianBlur
+         id="feGaussianBlur2192"
+         stdDeviation="4.9422164"
+         inkscape:collect="always" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1533-7"
+       x="-0.032613687"
+       width="1.0652274"
+       y="-0.041211843"
+       height="1.0824237">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.5145171"
+         id="feGaussianBlur1535-5" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.099056206"
+     inkscape:cx="-3607.1974"
+     inkscape:cy="3003.5665"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer2"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1440"
+     inkscape:window-height="877"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <sodipodi:guide
+       position="37.043557,-469.68937"
+       orientation="1,0"
+       id="guide899" />
+    <sodipodi:guide
+       position="133.04762,252.02084"
+       orientation="1,0"
+       id="guide968" />
+    <inkscape:grid
+       type="xygrid"
+       id="grid1245" />
+    <sodipodi:guide
+       position="261.63181,185.91611"
+       orientation="1,0"
+       id="guide1815" />
+    <sodipodi:guide
+       id="guide1724"
+       orientation="1,0"
+       position="-89.802559,-433.76832" />
+    <sodipodi:guide
+       id="guide2216"
+       orientation="0,-1"
+       position="78.581246,-403.88124" />
+    <sodipodi:guide
+       id="guide2281"
+       orientation="1,0"
+       position="115.21144,-6981.1528" />
+    <sodipodi:guide
+       id="guide2285"
+       orientation="1,0"
+       position="26.710424,-531.02318" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="bg">
+    <rect
+       style="display:inline;opacity:1;fill:#49f349;fill-opacity:1;stroke-width:0.458709"
+       id="rect849"
+       width="458.49481"
+       height="1258.0192"
+       x="-18.433729"
+       y="-18.433725" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557"
+       id="rect833"
+       width="182.8264"
+       height="146.7339"
+       x="24.413528"
+       y="22.120687" />
+    <rect
+       y="22.120687"
+       x="220.02126"
+       height="146.7339"
+       width="182.8264"
+       id="rect839"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557" />
+    <rect
+       y="181.56081"
+       x="24.413528"
+       height="146.7339"
+       width="182.8264"
+       id="rect841"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557"
+       id="rect843"
+       width="182.8264"
+       height="146.7339"
+       x="220.02126"
+       y="181.56081" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557"
+       id="rect845"
+       width="182.8264"
+       height="146.7339"
+       x="24.413528"
+       y="342.0596" />
+    <rect
+       y="505.57178"
+       x="220.02126"
+       height="146.7339"
+       width="182.8264"
+       id="rect847"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557"
+       id="rect1955"
+       width="182.8264"
+       height="146.7339"
+       x="220.02126"
+       y="664.32214" />
+    <rect
+       y="823.07281"
+       x="220.02126"
+       height="146.7339"
+       width="182.8264"
+       id="rect1959"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557" />
+    <rect
+       y="822.98865"
+       x="220.6322"
+       height="146.7339"
+       width="182.8264"
+       id="rect1306"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557" />
+    <rect
+       y="663.44324"
+       x="24.259209"
+       height="146.7339"
+       width="182.8264"
+       id="rect1480-5"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557"
+       id="rect2465"
+       width="182.8264"
+       height="146.7339"
+       x="24.259209"
+       y="822.19385" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557"
+       id="rect1480"
+       width="182.8264"
+       height="146.7339"
+       x="23.310884"
+       y="506.04968" />
+    <rect
+       y="341.67755"
+       x="221.16867"
+       height="146.7339"
+       width="182.8264"
+       id="rect2296"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.501557" />
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.206074;stroke-opacity:1"
+       id="rect1584"
+       width="114.90822"
+       height="73.419685"
+       x="251.92664"
+       y="400.44794" />
+    <rect
+       style="display:inline;opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.159531;stroke-opacity:1"
+       id="rect1587"
+       width="114.68159"
+       height="9.4165487"
+       x="251.93115"
+       y="400.91876" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.228665;stroke-opacity:1"
+       id="rect1589"
+       width="115.58813"
+       height="8.9457216"
+       x="251.69998"
+       y="419.70944" />
+    <rect
+       y="438.35324"
+       x="251.69998"
+       height="8.9457216"
+       width="115.58813"
+       id="rect1591"
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.228665;stroke-opacity:1" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.228665;stroke-opacity:1"
+       id="rect1593"
+       width="115.58813"
+       height="8.9457216"
+       x="251.69998"
+       y="456.99704" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10729px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:11.678px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       x="255.4666"
+       y="406.616"
+       id="text1597"><tspan
+         sodipodi:role="line"
+         id="tspan1595"
+         x="255.4666"
+         y="406.616"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10729px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.233047">date Quantity By</tspan></text>
+    <text
+       id="text1601"
+       y="416.87015"
+       x="255.93271"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79657px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.33047px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.79657px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.233047"
+         y="416.87015"
+         x="255.93271"
+         id="tspan1599"
+         sodipodi:role="line">22-3-4454  2     Sachet</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.176709;stroke-opacity:1"
+       id="rect1607"
+       width="37.613865"
+       height="6.3110509"
+       x="295.23767"
+       y="373.46008"
+       ry="0.3786577" />
+    <rect
+       ry="0.3786577"
+       y="364.52844"
+       x="295.43115"
+       height="6.3110509"
+       width="37.613865"
+       id="rect1609"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.176709;stroke-opacity:1" />
+    <g
+       style="display:inline"
+       id="g1617"
+       transform="matrix(0.88081025,0,0,0.88081025,222.1304,180.52694)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1611"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1615"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan1613"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
+    <path
+       sodipodi:type="star"
+       style="display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.121501;stroke-opacity:1"
+       id="path1621"
+       sodipodi:sides="3"
+       sodipodi:cx="329.93289"
+       sodipodi:cy="376.12253"
+       sodipodi:r1="1.2056711"
+       sodipodi:r2="0.60283554"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:arg2="0.5191231"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 330.97433,375.51503 -0.51802,0.90658 -0.51802,0.90658 -0.52611,-0.90191 -0.52612,-0.90191 1.04413,-0.005 z"
+       inkscape:transform-center-x="0.0026891264"
+       inkscape:transform-center-y="0.2990733" />
+    <text
+       id="text1629"
+       y="377.17975"
+       x="297.93436"
+       style="font-style:normal;font-weight:normal;font-size:2.48584px;line-height:1.25;font-family:sans-serif;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       xml:space="preserve"><tspan
+         style="font-size:2.48584px;fill:#999999;stroke-width:0.233047"
+         y="377.17975"
+         x="297.93436"
+         id="tspan1627"
+         sodipodi:role="line">Units</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.48584px;line-height:1.25;font-family:sans-serif;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       x="298.12787"
+       y="368.509"
+       id="text1633"><tspan
+         sodipodi:role="line"
+         id="tspan1631"
+         x="298.12787"
+         y="368.509"
+         style="font-size:2.48584px;fill:#999999;stroke-width:0.233047">stock</tspan></text>
+    <text
+       id="text1688"
+       y="356.51843"
+       x="286.15506"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.6918px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.213442"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.6918px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.213442"
+         y="356.51843"
+         x="286.15506"
+         id="tspan1686"
+         sodipodi:role="line">Parcetamol Stocks</tspan></text>
+    <g
+       style="display:inline"
+       id="g1539-7"
+       transform="matrix(0.55038294,0,0,0.55038294,129.36459,300.18995)">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter1533-7)"
+         id="rect1487-9"
+         width="111.45139"
+         height="88.198944"
+         x="272.08038"
+         y="220.76462" />
+      <rect
+         y="220.76462"
+         x="272.08038"
+         height="88.198944"
+         width="111.45139"
+         id="rect1485-9"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.232603;stroke-opacity:1"
+       id="rect1541-2"
+       width="61.443039"
+       height="9.887373"
+       x="279.01923"
+       y="420.77737"
+       ry="0.37865824" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.41805px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       x="300.31403"
+       y="426.8981"
+       id="text1557-4"><tspan
+         sodipodi:role="line"
+         id="tspan1555-2"
+         x="300.31403"
+         y="426.8981"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.41805px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;stroke-width:0.233047">Update Stock</tspan></text>
+    <rect
+       ry="0.3786577"
+       y="435.38611"
+       x="289.63904"
+       height="6.3110509"
+       width="41.615902"
+       id="rect1427-0-1"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.185872;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.48585px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       x="292.33572"
+       y="439.57187"
+       id="text1433-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan1431-0-7"
+         x="292.33572"
+         y="439.57187"
+         style="font-size:2.48585px;fill:#000000;stroke-width:0.233047">22-3-4454</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.18692;stroke-opacity:1"
+       id="rect1415-1-7"
+       width="42.086723"
+       height="6.3110509"
+       x="289.63904"
+       y="443.64929"
+       ry="0.3786577" />
+    <text
+       id="text1437-8-1"
+       y="447.36896"
+       x="292.33575"
+       style="font-style:normal;font-weight:normal;font-size:2.48585px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       xml:space="preserve"><tspan
+         style="font-size:2.48585px;fill:#000000;stroke-width:0.233047"
+         y="447.36896"
+         x="292.33575"
+         id="tspan1435-0-6"
+         sodipodi:role="line">Sachet</tspan></text>
+    <g
+       style="display:inline"
+       id="g1425-9-32"
+       transform="matrix(0.88081025,0,0,0.88081025,217.31421,258.92133)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1419-8-6"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1423-2-2"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan1421-5-7"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.185872;stroke-opacity:1"
+       id="rect1634-2"
+       width="41.615902"
+       height="6.3110509"
+       x="289.63904"
+       y="451.69937"
+       ry="0.3786577" />
+    <text
+       id="text1638-6"
+       y="455.88513"
+       x="292.33572"
+       style="font-style:normal;font-weight:normal;font-size:2.48585px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.233047"
+       xml:space="preserve"><tspan
+         style="font-size:2.48585px;fill:#000000;stroke-width:0.233047"
+         y="455.88513"
+         x="292.33572"
+         id="tspan1636-1"
+         sodipodi:role="line">2</tspan></text>
+    <g
+       transform="matrix(0.88081025,0,0,0.88081025,285.04251,148.96487)"
+       id="g1425-9-32-1"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1"
+         id="rect1419-8-6-7"
+         width="17.979399"
+         height="7.1650519"
+         x="95.405853"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="100.49873"
+         y="233.8071"
+         id="text1423-2-2-3"><tspan
+           sodipodi:role="line"
+           id="tspan1421-5-7-2"
+           x="100.49873"
+           y="233.8071"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">back</tspan></text>
+    </g>
+    <g
+       style="display:inline"
+       id="g1675"
+       transform="matrix(0.03682059,0,0,0.03682059,309.58147,414.4456)">
+      <g
+         id="g1643">
+        <path
+           id="path1635"
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z" />
+        <path
+           id="path1637"
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z" />
+        <path
+           id="path1639"
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z" />
+        <path
+           id="path1641"
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z" />
+      </g>
+      <g
+         id="g1645" />
+      <g
+         id="g1647" />
+      <g
+         id="g1649" />
+      <g
+         id="g1651" />
+      <g
+         id="g1653" />
+      <g
+         id="g1655" />
+      <g
+         id="g1657" />
+      <g
+         id="g1659" />
+      <g
+         id="g1661" />
+      <g
+         id="g1663" />
+      <g
+         id="g1665" />
+      <g
+         id="g1667" />
+      <g
+         id="g1669" />
+      <g
+         id="g1671" />
+      <g
+         id="g1673" />
+    </g>
+    <g
+       style="display:inline"
+       transform="matrix(0.17626018,0,0,0.17626018,316.79994,373.80859)"
+       id="g1960">
+      <rect
+         style="fill:#000000;stroke:none;stroke-width:1.0583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1948"
+         width="17.212158"
+         height="1.4967059"
+         x="147.69914"
+         y="176.04494"
+         transform="rotate(44.115877)" />
+      <g
+         id="g1955">
+        <rect
+           style="fill:#000000;stroke:none;stroke-width:1.0583;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1952"
+           width="17.212158"
+           height="1.4967059"
+           x="-180.4921"
+           y="-162.43442"
+           transform="matrix(0.71793343,-0.69611177,-0.69611177,-0.71793343,0,0)" />
+      </g>
+    </g>
+  </g>
+  <g
+     style="display:inline"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.564789"
+       id="rect859"
+       width="106.39651"
+       height="93.476936"
+       x="67.672646"
+       y="46.798145" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.452223"
+       id="rect861"
+       width="79.485916"
+       height="13.932877"
+       x="80.845551"
+       y="70.367554" />
+    <rect
+       y="92.01667"
+       x="81.127945"
+       height="13.932877"
+       width="79.485916"
+       id="rect861-0"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.452223" />
+    <rect
+       style="opacity:1;fill:#782121;fill-opacity:1;stroke-width:0.3287"
+       id="rect861-0-8"
+       width="41.993816"
+       height="13.932877"
+       x="99.873993"
+       y="114.26854" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.6854px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.278557"
+       x="106.94096"
+       y="60.305382"
+       id="text897"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="106.94096"
+         y="60.305382"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.6854px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.278557">LOGIN</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.501557"
+       x="85.658722"
+       y="78.706917"
+       id="text903"><tspan
+         sodipodi:role="line"
+         id="tspan901"
+         x="85.658722"
+         y="78.706917"
+         style="font-size:4.01247px;fill:#cccccc;stroke-width:0.501557">Username</tspan></text>
+    <text
+       id="text907"
+       y="100.77547"
+       x="85.658722"
+       style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.501557"
+       xml:space="preserve"><tspan
+         style="font-size:4.01247px;fill:#b3b3b3;stroke-width:0.501557"
+         y="100.77547"
+         x="85.658722"
+         id="tspan905"
+         sodipodi:role="line">Password</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.501557"
+       x="115.28756"
+       y="122.54234"
+       id="text911"><tspan
+         sodipodi:role="line"
+         id="tspan909"
+         x="115.28756"
+         y="122.54234"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ffffff;stroke-width:0.501557">login</tspan></text>
+    <g
+       id="g1061">
+      <rect
+         ry="0"
+         y="22.084318"
+         x="219.4245"
+         height="146.67519"
+         width="36.478821"
+         id="rect913"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218" />
+      <rect
+         y="46.89999"
+         x="219.161"
+         height="8.8663759"
+         width="36.732136"
+         id="rect930"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134" />
+      <text
+         id="text922"
+         y="40.587231"
+         x="224.22751"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="40.587231"
+           x="224.22751"
+           id="tspan920"
+           sodipodi:role="line">Overview</tspan><tspan
+           id="tspan924"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="52.426884"
+           x="224.22751"
+           sodipodi:role="line">Products</tspan><tspan
+           id="tspan926"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="64.266541"
+           x="224.22751"
+           sodipodi:role="line">Categories</tspan><tspan
+           id="tspan928"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="76.106194"
+           x="224.22751"
+           sodipodi:role="line">Users</tspan><tspan
+           id="tspan1664"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="87.945847"
+           x="224.22751"
+           sodipodi:role="line">Orders</tspan></text>
+      <rect
+         y="22.043402"
+         x="248.14502"
+         height="10.386326"
+         width="154.6613"
+         id="rect932"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627" />
+      <text
+         id="text936"
+         y="28.789335"
+         x="302.89337"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557"
+           y="28.789335"
+           x="302.89337"
+           id="tspan934"
+           sodipodi:role="line">Management Panel</tspan></text>
+      <text
+         id="text940"
+         y="28.9436"
+         x="223.73369"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101"
+           y="28.9436"
+           x="223.73369"
+           id="tspan938"
+           sodipodi:role="line">Admin566</tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#49f349;stroke-width:1.66496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 266.36194,82.760505 c 13.56294,-19.56195 30.51663,-19.56195 30.51663,-19.56195 l 7.04231,-14.345431 2.86909,2.086607"
+       id="path958" />
+    <g
+       id="g952"
+       transform="matrix(0.77062241,0,0,1.2522727,165.41894,28.425835)"
+       style="stroke:#800000;stroke-width:0.504325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         transform="scale(-1,1)"
+         y="12.506315"
+         x="-130.42619"
+         height="30.602362"
+         width="0.33883548"
+         id="rect942"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#800000;stroke-width:0.504325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="42.773872"
+         x="130.42752"
+         height="0.26726952"
+         width="64.27832"
+         id="rect944"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#800000;stroke-width:0.504325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.289267;stroke-opacity:1"
+       id="rect960"
+       width="7.1658421"
+       height="25.558172"
+       x="267.55402"
+       y="125.69756" />
+    <rect
+       y="118.05399"
+       x="276.91748"
+       height="33.201736"
+       width="7.1658421"
+       id="rect962"
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.329696;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.189664;stroke-opacity:1"
+       id="rect964"
+       width="7.1658421"
+       height="10.987626"
+       x="286.28088"
+       y="140.2681" />
+    <rect
+       y="128.08618"
+       x="294.97543"
+       height="23.169556"
+       width="7.1658421"
+       id="rect966"
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.275418;stroke-opacity:1" />
+    <g
+       id="g956"
+       transform="matrix(0.67860426,0,0,1.0339795,177.46512,69.986355)"
+       style="stroke:#800000;stroke-width:1.08861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+      <rect
+         y="46.504898"
+         x="129.63109"
+         height="32.205978"
+         width="0.41711691"
+         id="rect946"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#800000;stroke-width:1.08861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="78.443604"
+         x="129.89836"
+         height="0.26726952"
+         width="67.886459"
+         id="rect948"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#800000;stroke-width:1.08861;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;line-height:3.35;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.365156"
+       x="261.72299"
+       y="49.64539"
+       id="text972"><tspan
+         sodipodi:role="line"
+         x="261.72299"
+         y="49.64539"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365156"
+         id="tspan988">50</tspan><tspan
+         sodipodi:role="line"
+         x="261.72299"
+         y="56.169514"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365156"
+         id="tspan994">40</tspan><tspan
+         sodipodi:role="line"
+         x="261.72299"
+         y="62.693638"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365156"
+         id="tspan1000">30</tspan><tspan
+         sodipodi:role="line"
+         x="261.72299"
+         y="69.217766"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365156"
+         id="tspan1007">20</tspan><tspan
+         sodipodi:role="line"
+         x="261.72299"
+         y="75.74189"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365156"
+         id="tspan1009">10</tspan><tspan
+         sodipodi:role="line"
+         x="261.72299"
+         y="82.266014"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365156"
+         id="tspan1011">0</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:1.9475px;line-height:1.95;font-family:sans-serif;letter-spacing:0.368808px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.365156"
+       x="266.73444"
+       y="85.453346"
+       id="text1015"><tspan
+         sodipodi:role="line"
+         id="tspan1013"
+         x="266.73444"
+         y="85.453346"
+         style="font-size:1.9475px;stroke-width:0.365156">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</tspan></text>
+    <text
+       id="text1029"
+       y="122.23491"
+       x="261.72916"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78349px;line-height:3.35;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.334405"
+       xml:space="preserve"><tspan
+         id="tspan1017"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78349px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.334405"
+         y="122.23491"
+         x="261.72916"
+         sodipodi:role="line">50</tspan><tspan
+         id="tspan1019"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78349px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.334405"
+         y="128.20961"
+         x="261.72916"
+         sodipodi:role="line">40</tspan><tspan
+         id="tspan1021"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78349px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.334405"
+         y="134.1843"
+         x="261.72916"
+         sodipodi:role="line">30</tspan><tspan
+         id="tspan1023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78349px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.334405"
+         y="140.159"
+         x="261.72916"
+         sodipodi:role="line">20</tspan><tspan
+         id="tspan1025"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78349px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.334405"
+         y="146.13368"
+         x="261.72916"
+         sodipodi:role="line">10</tspan><tspan
+         id="tspan1027"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.78349px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.334405"
+         y="152.10837"
+         x="261.72916"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       id="text1033"
+       y="153.96904"
+       x="266.31857"
+       style="font-style:normal;font-weight:normal;font-size:1.78349px;line-height:1.95;font-family:sans-serif;letter-spacing:0.33775px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.334405"
+       xml:space="preserve"><tspan
+         style="font-size:1.78349px;stroke-width:0.334405"
+         y="153.96904"
+         x="266.31857"
+         id="tspan1031"
+         sodipodi:role="line">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.16562px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.124939"
+       x="324.55954"
+       y="39.139191"
+       id="text1037"><tspan
+         sodipodi:role="line"
+         id="tspan1035"
+         x="324.55954"
+         y="39.139191"
+         style="font-size:2.16562px;stroke-width:0.124939">Most Sold Drug</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.99757px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.124939"
+       x="320.75302"
+       y="44.816013"
+       id="text1041"><tspan
+         sodipodi:role="line"
+         id="tspan1039"
+         x="320.75302"
+         y="44.816013"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.124939">Paracetamol</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.16562px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.124939"
+       x="325.69287"
+       y="47.473999"
+       id="text1045"><tspan
+         sodipodi:role="line"
+         id="tspan1043"
+         x="325.69287"
+         y="47.473999"
+         style="font-size:2.16562px;stroke-width:0.124939"><tspan
+   style="font-weight:bold;font-size:2.16562px;stroke-width:0.124939"
+   id="tspan1047">24556</tspan> pieces</tspan></text>
+    <g
+       id="g1087"
+       transform="translate(0,159.27921)">
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218"
+         id="rect1063"
+         width="36.478821"
+         height="146.67519"
+         x="219.4245"
+         y="22.084318"
+         ry="0" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134"
+         id="rect1065"
+         width="36.732136"
+         height="8.8663759"
+         x="219.161"
+         y="46.89999" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="224.22751"
+         y="40.587231"
+         id="text1075"><tspan
+           sodipodi:role="line"
+           id="tspan1067"
+           x="224.22751"
+           y="40.587231"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557">Overview</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="52.426884"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1069">Products</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="64.266541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1071">Categories</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="76.106194"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1073">Users</tspan><tspan
+           id="tspan1666"
+           sodipodi:role="line"
+           x="224.22751"
+           y="87.945847"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557">Orders</tspan></text>
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627"
+         id="rect1077"
+         width="154.6613"
+         height="10.386326"
+         x="248.14502"
+         y="22.043402" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="302.89337"
+         y="28.789335"
+         id="text1081"><tspan
+           sodipodi:role="line"
+           id="tspan1079"
+           x="302.89337"
+           y="28.789335"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557">Management Panel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         x="223.73369"
+         y="28.9436"
+         id="text1085"><tspan
+           sodipodi:role="line"
+           id="tspan1083"
+           x="223.73369"
+           y="28.9436"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101">Admin566</tspan></text>
+    </g>
+    <g
+       transform="translate(-195.79173,159.27921)"
+       id="g1113">
+      <rect
+         ry="0"
+         y="22.084318"
+         x="219.4245"
+         height="146.67519"
+         width="36.478821"
+         id="rect1089"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218" />
+      <rect
+         y="46.89999"
+         x="219.161"
+         height="8.8663759"
+         width="36.732136"
+         id="rect1091"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134" />
+      <text
+         id="text1101"
+         y="40.587231"
+         x="224.22751"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="40.587231"
+           x="224.22751"
+           id="tspan1093"
+           sodipodi:role="line">Overview</tspan><tspan
+           id="tspan1095"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="52.426884"
+           x="224.22751"
+           sodipodi:role="line">Products</tspan><tspan
+           id="tspan1097"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="64.266541"
+           x="224.22751"
+           sodipodi:role="line">Categories</tspan><tspan
+           id="tspan1099"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="76.106194"
+           x="224.22751"
+           sodipodi:role="line">Users</tspan><tspan
+           id="tspan1668"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="87.945847"
+           x="224.22751"
+           sodipodi:role="line">Orders</tspan></text>
+      <rect
+         y="22.043402"
+         x="248.14502"
+         height="10.386326"
+         width="154.6613"
+         id="rect1103"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627" />
+      <text
+         id="text1107"
+         y="28.789335"
+         x="302.89337"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557"
+           y="28.789335"
+           x="302.89337"
+           id="tspan1105"
+           sodipodi:role="line">Management Panel</tspan></text>
+      <text
+         id="text1111"
+         y="28.9436"
+         x="223.73369"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101"
+           y="28.9436"
+           x="223.73369"
+           id="tspan1109"
+           sodipodi:role="line">Admin566</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1"
+       id="rect1115"
+       width="130.4574"
+       height="83.354713"
+       x="65.73835"
+       y="218.73785" />
+    <rect
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1"
+       id="rect1117"
+       width="130.2001"
+       height="10.690781"
+       x="65.743515"
+       y="219.27242" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1121"
+       width="131.22932"
+       height="10.156241"
+       x="65.481033"
+       y="240.60582" />
+    <rect
+       y="261.77258"
+       x="65.481033"
+       height="10.156241"
+       width="131.22932"
+       id="rect1123"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1125"
+       width="131.22932"
+       height="10.156241"
+       x="65.481033"
+       y="282.93921" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:13.2583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.757347"
+       y="225.7406"
+       id="text1131"><tspan
+         sodipodi:role="line"
+         id="tspan1129"
+         x="69.757347"
+         y="225.7406"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         dx="0">id Name Category  stock sold</tspan></text>
+    <text
+       id="text1135"
+       y="237.38235"
+       x="70.286514"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="237.38235"
+         x="70.286514"
+         id="tspan1133"
+         sodipodi:role="line">1   Paracetamol  Antiseptics       234    334</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="70.286514"
+       y="247.43661"
+       id="text1199"><tspan
+         sodipodi:role="line"
+         id="tspan1197"
+         x="70.286514"
+         y="247.43661"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">2   Penisilin    Epidermic       22     22</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1214"
+       width="42.703709"
+       height="7.1650519"
+       x="110.67144"
+       y="198.18327"
+       ry="0.42989704" />
+    <rect
+       ry="0.42989704"
+       y="198.37828"
+       x="154.89462"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1216"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <g
+       id="g1229"
+       transform="translate(83.457143,-20.6753)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1218"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1222"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan1220"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
+    <rect
+       ry="0.42989704"
+       y="198.03206"
+       x="66.448219"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1224"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       id="path1231"
+       sodipodi:sides="3"
+       sodipodi:cx="150.06152"
+       sodipodi:cy="201.20606"
+       sodipodi:r1="1.3688205"
+       sodipodi:r2="0.68441021"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:arg2="0.5191231"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 151.24388,200.51635 -0.58811,1.02925 -0.58812,1.02926 -0.59731,-1.02395 -0.5973,-1.02395 1.18542,-0.005 z"
+       inkscape:transform-center-x="0.0030585446"
+       inkscape:transform-center-y="0.33954595" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="69.509827"
+       y="202.78423"
+       id="text1235"><tspan
+         sodipodi:role="line"
+         id="tspan1233"
+         x="69.509827"
+         y="202.78423"
+         style="font-size:2.82222px;fill:#999999;stroke-width:0.264583">Name</tspan></text>
+    <text
+       id="text1239"
+       y="202.4063"
+       x="113.73305"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;fill:#999999;stroke-width:0.264583"
+         y="202.4063"
+         x="113.73305"
+         id="tspan1237"
+         sodipodi:role="line">Category</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="157.95624"
+       y="202.89751"
+       id="text1243"><tspan
+         sodipodi:role="line"
+         id="tspan1241"
+         x="157.95624"
+         y="202.89751"
+         style="font-size:2.82222px;fill:#999999;stroke-width:0.264583">stock</tspan></text>
+    <g
+       transform="matrix(0.04180309,0,0,0.04180309,186.7441,235.29049)"
+       id="g1316">
+      <g
+         id="g1257">
+        <path
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z"
+           id="path1249" />
+        <path
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z"
+           id="path1251" />
+        <path
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z"
+           id="path1253" />
+        <path
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z"
+           id="path1255" />
+      </g>
+      <g
+         id="g1259" />
+      <g
+         id="g1261" />
+      <g
+         id="g1263" />
+      <g
+         id="g1265" />
+      <g
+         id="g1267" />
+      <g
+         id="g1269" />
+      <g
+         id="g1271" />
+      <g
+         id="g1273" />
+      <g
+         id="g1275" />
+      <g
+         id="g1277" />
+      <g
+         id="g1279" />
+      <g
+         id="g1281" />
+      <g
+         id="g1283" />
+      <g
+         id="g1285" />
+      <g
+         id="g1287" />
+    </g>
+    <rect
+       y="221.41057"
+       x="262.44873"
+       height="83.354713"
+       width="130.4574"
+       id="rect1393"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1" />
+    <rect
+       y="221.94508"
+       x="262.45389"
+       height="10.690781"
+       width="130.2001"
+       id="rect1395"
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1" />
+    <rect
+       y="243.27852"
+       x="262.19141"
+       height="10.156241"
+       width="131.22932"
+       id="rect1397"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1399"
+       width="131.22932"
+       height="10.156241"
+       x="262.19141"
+       y="264.44528" />
+    <rect
+       y="285.61191"
+       x="262.19141"
+       height="10.156241"
+       width="131.22932"
+       id="rect1401"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <text
+       id="text1405"
+       y="228.4133"
+       x="266.46771"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:13.2583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         dx="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52778px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         y="228.4133"
+         x="266.46771"
+         id="tspan1403"
+         sodipodi:role="line">id Name Category  stock sold</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="266.99689"
+       y="240.05505"
+       id="text1409"><tspan
+         sodipodi:role="line"
+         id="tspan1407"
+         x="266.99689"
+         y="240.05505"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">1   Paracetamol  Antiseptics       234    334</tspan></text>
+    <text
+       id="text1413"
+       y="250.10931"
+       x="266.99689"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="250.10931"
+         x="266.99689"
+         id="tspan1411"
+         sodipodi:role="line">2   Penisilin    Epidermic       22     22</tspan></text>
+    <rect
+       ry="0.42989704"
+       y="200.856"
+       x="307.38181"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1415"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1417"
+       width="42.703709"
+       height="7.1650519"
+       x="351.60498"
+       y="201.05101"
+       ry="0.42989704" />
+    <g
+       transform="translate(280.16752,-18.002609)"
+       id="g1425">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1"
+         id="rect1419"
+         width="17.979399"
+         height="7.1650519"
+         x="95.405853"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="101.0279"
+         y="233.8071"
+         id="text1423"><tspan
+           sodipodi:role="line"
+           id="tspan1421"
+           x="101.0279"
+           y="233.8071"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">Add</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1427"
+       width="42.703709"
+       height="7.1650519"
+       x="263.1586"
+       y="200.70476"
+       ry="0.42989704" />
+    <path
+       inkscape:transform-center-y="0.33954595"
+       inkscape:transform-center-x="0.0030585446"
+       d="m 347.95427,203.18901 -0.58812,1.02926 -0.58811,1.02926 -0.59731,-1.02395 -0.5973,-1.02395 1.18542,-0.005 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.5191231"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:r2="0.68441021"
+       sodipodi:r1="1.3688205"
+       sodipodi:cy="203.87873"
+       sodipodi:cx="346.77191"
+       sodipodi:sides="3"
+       id="path1429"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       sodipodi:type="star" />
+    <text
+       id="text1433"
+       y="205.45691"
+       x="266.22018"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;fill:#999999;stroke-width:0.264583"
+         y="205.45691"
+         x="266.22018"
+         id="tspan1431"
+         sodipodi:role="line">Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="310.44342"
+       y="205.07898"
+       id="text1437"><tspan
+         sodipodi:role="line"
+         id="tspan1435"
+         x="310.44342"
+         y="205.07898"
+         style="font-size:2.82222px;fill:#999999;stroke-width:0.264583">Category</tspan></text>
+    <text
+       id="text1441"
+       y="205.57022"
+       x="354.6666"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;fill:#999999;stroke-width:0.264583"
+         y="205.57022"
+         x="354.6666"
+         id="tspan1439"
+         sodipodi:role="line">stock</tspan></text>
+    <g
+       id="g1483"
+       transform="matrix(0.04202695,0,0,0.04202695,383.98364,246.94562)">
+      <g
+         id="g1451">
+        <path
+           id="path1443"
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z" />
+        <path
+           id="path1445"
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z" />
+        <path
+           id="path1447"
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z" />
+        <path
+           id="path1449"
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z" />
+      </g>
+      <g
+         id="g1453" />
+      <g
+         id="g1455" />
+      <g
+         id="g1457" />
+      <g
+         id="g1459" />
+      <g
+         id="g1461" />
+      <g
+         id="g1463" />
+      <g
+         id="g1465" />
+      <g
+         id="g1467" />
+      <g
+         id="g1469" />
+      <g
+         id="g1471" />
+      <g
+         id="g1473" />
+      <g
+         id="g1475" />
+      <g
+         id="g1477" />
+      <g
+         id="g1479" />
+      <g
+         id="g1481" />
+    </g>
+    <g
+       id="g1539"
+       transform="matrix(0.62485983,0,0,0.62485983,125.15987,85.473869)">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter1533)"
+         id="rect1487"
+         width="111.45139"
+         height="88.198944"
+         x="272.08038"
+         y="220.76462" />
+      <rect
+         y="220.76462"
+         x="272.08038"
+         height="88.198944"
+         width="111.45139"
+         id="rect1485"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.264078;stroke-opacity:1"
+       id="rect1541"
+       width="69.757408"
+       height="11.225316"
+       x="295.06552"
+       y="222.37898"
+       ry="0.42989764" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="322.41684"
+       y="229.328"
+       id="text1557"><tspan
+         sodipodi:role="line"
+         id="tspan1555"
+         x="322.41684"
+         y="229.328"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;stroke-width:0.264583">Add Stock</tspan></text>
+    <rect
+       ry="0.42989704"
+       y="238.96457"
+       x="307.12241"
+       height="7.1650519"
+       width="47.247292"
+       id="rect1427-0"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.211024;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="310.18399"
+       y="243.71672"
+       id="text1433-3"><tspan
+         sodipodi:role="line"
+         id="tspan1431-0"
+         x="310.18399"
+         y="243.71672"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Paracematol</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.212214;stroke-opacity:1"
+       id="rect1415-1"
+       width="47.78183"
+       height="7.1650519"
+       x="307.12241"
+       y="248.34589"
+       ry="0.42989704" />
+    <text
+       id="text1437-8"
+       y="252.56895"
+       x="310.18402"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="252.56895"
+         x="310.18402"
+         id="tspan1435-0"
+         sodipodi:role="line">Antiseptic</tspan></text>
+    <g
+       id="g1425-9"
+       transform="translate(225.01069,38.620866)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1419-8"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1423-2"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan1421-5"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.211024;stroke-opacity:1"
+       id="rect1634"
+       width="47.247292"
+       height="7.1650519"
+       x="307.12241"
+       y="257.48541"
+       ry="0.42989704" />
+    <text
+       id="text1638"
+       y="262.23755"
+       x="310.18399"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="262.23755"
+         x="310.18399"
+         id="tspan1636"
+         sodipodi:role="line">Quantity</tspan></text>
+    <g
+       id="g1646"
+       transform="matrix(0.17283951,0,0,0.17283951,316.01187,208.1846)">
+      <rect
+         ry="0.42989764"
+         y="225.2738"
+         x="421.44345"
+         height="15.308036"
+         width="3.5907736"
+         id="rect1640"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+      <rect
+         transform="rotate(-90)"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect1642"
+         width="3.5907736"
+         height="15.308036"
+         x="-234.72321"
+         y="415.58481"
+         ry="0.42989764" />
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1"
+       id="rect1393-1"
+       width="130.4574"
+       height="83.354713"
+       x="68.194305"
+       y="382.15237" />
+    <rect
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1"
+       id="rect1395-2"
+       width="130.2001"
+       height="10.690781"
+       x="68.199463"
+       y="382.68692" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1397-2"
+       width="131.22932"
+       height="10.156241"
+       x="67.936981"
+       y="404.02029" />
+    <rect
+       y="425.18698"
+       x="67.936981"
+       height="10.156241"
+       width="131.22932"
+       id="rect1399-6"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1401-1"
+       width="131.22932"
+       height="10.156241"
+       x="67.936981"
+       y="446.35361" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:13.2583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="72.213287"
+       y="389.15509"
+       id="text1405-9"><tspan
+         sodipodi:role="line"
+         id="tspan1403-9"
+         x="72.213287"
+         y="389.15509"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         dx="0">id Name Category  stock sold</tspan></text>
+    <text
+       id="text1409-7"
+       y="400.79681"
+       x="72.742462"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="400.79681"
+         x="72.742462"
+         id="tspan1407-2"
+         sodipodi:role="line">1   Paracetamol  Antiseptics       234    334</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="72.742462"
+       y="410.85107"
+       id="text1413-6"><tspan
+         sodipodi:role="line"
+         id="tspan1411-2"
+         x="72.742462"
+         y="410.85107"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">2   Penisilin    Epidermic       22     22</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1415-7"
+       width="42.703709"
+       height="7.1650519"
+       x="113.12738"
+       y="361.59781"
+       ry="0.42989704" />
+    <rect
+       ry="0.42989704"
+       y="361.79282"
+       x="157.35057"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1417-5"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <g
+       id="g1425-6"
+       transform="translate(85.913103,142.73905)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1419-86"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1423-4"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan1421-3"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
+    <rect
+       ry="0.42989704"
+       y="361.44662"
+       x="68.904175"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1427-7"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       id="path1429-67"
+       sodipodi:sides="3"
+       sodipodi:cx="152.51749"
+       sodipodi:cy="364.62055"
+       sodipodi:r1="1.3688205"
+       sodipodi:r2="0.68441027"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:arg2="0.5191231"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 153.69984,363.93084 -0.58811,1.02925 -0.58812,1.02926 -0.5973,-1.02395 -0.59731,-1.02395 1.18542,-0.005 z"
+       inkscape:transform-center-x="0.0030585446"
+       inkscape:transform-center-y="0.33954595" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.965759"
+       y="366.19873"
+       id="text1433-2"><tspan
+         sodipodi:role="line"
+         id="tspan1431-4"
+         x="71.965759"
+         y="366.19873"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Name</tspan></text>
+    <text
+       id="text1437-6"
+       y="365.8208"
+       x="116.18899"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="365.8208"
+         x="116.18899"
+         id="tspan1435-5"
+         sodipodi:role="line">Category</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="160.41219"
+       y="366.31207"
+       id="text1441-7"><tspan
+         sodipodi:role="line"
+         id="tspan1439-5"
+         x="160.41219"
+         y="366.31207"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">stock</tspan></text>
+    <g
+       transform="matrix(0.04202695,0,0,0.04202695,189.72921,407.68727)"
+       id="g1483-1">
+      <g
+         id="g1451-3">
+        <path
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z"
+           id="path1443-4" />
+        <path
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z"
+           id="path1445-9" />
+        <path
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z"
+           id="path1447-6" />
+        <path
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z"
+           id="path1449-3" />
+      </g>
+      <g
+         id="g1453-4" />
+      <g
+         id="g1455-1" />
+      <g
+         id="g1457-8" />
+      <g
+         id="g1459-5" />
+      <g
+         id="g1461-6" />
+      <g
+         id="g1463-9" />
+      <g
+         id="g1465-1" />
+      <g
+         id="g1467-7" />
+      <g
+         id="g1469-6" />
+      <g
+         id="g1471-9" />
+      <g
+         id="g1473-5" />
+      <g
+         id="g1475-3" />
+      <g
+         id="g1477-3" />
+      <g
+         id="g1479-6" />
+      <g
+         id="g1481-4" />
+    </g>
+    <g
+       transform="matrix(0.62485982,0,0,0.62485982,-69.094558,246.21554)"
+       id="g1539-4">
+      <rect
+         y="220.76462"
+         x="272.08038"
+         height="88.198944"
+         width="111.45139"
+         id="rect1487-2"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter1533-8)" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect1485-2"
+         width="111.45139"
+         height="88.198944"
+         x="272.08038"
+         y="220.76462" />
+    </g>
+    <rect
+       ry="0.42989764"
+       y="383.12082"
+       x="100.8111"
+       height="11.225316"
+       width="69.757408"
+       id="rect1541-9"
+       style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.264078;stroke-opacity:1" />
+    <text
+       id="text1557-2"
+       y="390.06976"
+       x="124.4583"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;stroke-width:0.264583"
+         y="390.06976"
+         x="124.4583"
+         id="tspan1555-1"
+         sodipodi:role="line">Update Details</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.211024;stroke-opacity:1"
+       id="rect1427-0-2"
+       width="47.247295"
+       height="7.1650519"
+       x="112.86798"
+       y="402.3522"
+       ry="0.42989704" />
+    <text
+       id="text1433-3-4"
+       y="407.10437"
+       x="115.92956"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#1a1a1a;stroke-width:0.264583"
+         y="407.10437"
+         x="115.92956"
+         id="tspan1431-0-3"
+         sodipodi:role="line">Paracetamol</tspan></text>
+    <rect
+       ry="0.42989704"
+       y="411.73355"
+       x="112.86798"
+       height="7.1650519"
+       width="47.78183"
+       id="rect1415-1-5"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.212214;stroke-opacity:1" />
+    <path
+       inkscape:transform-center-y="0.33954595"
+       inkscape:transform-center-x="0.0030585446"
+       d="m 158.73207,414.06655 -0.58811,1.02926 -0.58812,1.02925 -0.59731,-1.02395 -0.5973,-1.02395 1.18542,-0.005 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.5191231"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:r2="0.68441027"
+       sodipodi:r1="1.3688205"
+       sodipodi:cy="414.75627"
+       sodipodi:cx="157.54971"
+       sodipodi:sides="3"
+       id="path1429-6-9"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       sodipodi:type="star" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.9296"
+       y="415.95657"
+       id="text1437-8-3"><tspan
+         sodipodi:role="line"
+         id="tspan1435-0-2"
+         x="115.9296"
+         y="415.95657"
+         style="font-size:2.82223px;fill:#000000;stroke-width:0.264583">Antiseptic</tspan></text>
+    <g
+       transform="translate(31.814596,193.54165)"
+       id="g1425-9-3">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1"
+         id="rect1419-8-4"
+         width="17.979399"
+         height="7.1650519"
+         x="95.405853"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="99.547173"
+         y="233.40619"
+         id="text1423-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan1421-5-6"
+           x="99.547173"
+           y="233.40619"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">Update</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.17283951,0,0,0.17283951,121.75744,368.92626)"
+       id="g1646-4">
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect1640-5"
+         width="3.5907736"
+         height="15.308036"
+         x="421.44345"
+         y="225.2738"
+         ry="0.42989764" />
+      <rect
+         ry="0.42989764"
+         y="415.58481"
+         x="-234.72321"
+         height="15.308036"
+         width="3.5907736"
+         id="rect1642-3"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         transform="rotate(-90)" />
+    </g>
+    <g
+       transform="translate(-195.25595,320.21877)"
+       id="g1087-4">
+      <rect
+         ry="0"
+         y="22.084318"
+         x="219.4245"
+         height="146.67519"
+         width="36.478821"
+         id="rect1063-1"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218" />
+      <rect
+         y="46.89999"
+         x="219.161"
+         height="8.8663759"
+         width="36.732136"
+         id="rect1065-6"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134" />
+      <text
+         id="text1075-7"
+         y="40.587231"
+         x="224.22751"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="40.587231"
+           x="224.22751"
+           id="tspan1067-6"
+           sodipodi:role="line">Overview</tspan><tspan
+           id="tspan1069-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="52.426884"
+           x="224.22751"
+           sodipodi:role="line">Products</tspan><tspan
+           id="tspan1071-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="64.266541"
+           x="224.22751"
+           sodipodi:role="line">Categories</tspan><tspan
+           id="tspan1073-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="76.106194"
+           x="224.22751"
+           sodipodi:role="line">Users</tspan><tspan
+           id="tspan1670"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="87.945847"
+           x="224.22751"
+           sodipodi:role="line">Orders</tspan></text>
+      <rect
+         y="22.043402"
+         x="248.14502"
+         height="10.386326"
+         width="154.6613"
+         id="rect1077-3"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627" />
+      <text
+         id="text1081-6"
+         y="28.789335"
+         x="302.89337"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557"
+           y="28.789335"
+           x="302.89337"
+           id="tspan1079-0"
+           sodipodi:role="line">Management Panel</tspan></text>
+      <text
+         id="text1085-7"
+         y="28.9436"
+         x="223.73369"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101"
+           y="28.9436"
+           x="223.73369"
+           id="tspan1083-3"
+           sodipodi:role="line">Admin566</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.17283951,0,0,0.17283951,118.30929,196.55778)"
+       id="g1646-9">
+      <rect
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect1640-9"
+         width="3.5907736"
+         height="15.308036"
+         x="421.44345"
+         y="225.2738"
+         ry="0.42989764" />
+      <rect
+         ry="0.42989764"
+         y="415.58481"
+         x="-234.72321"
+         height="15.308036"
+         width="3.5907736"
+         id="rect1642-7"
+         style="opacity:1;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         transform="rotate(-90)" />
+    </g>
+    <rect
+       y="545.13019"
+       x="263.30106"
+       height="83.354713"
+       width="130.4574"
+       id="rect1965"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1" />
+    <rect
+       y="545.66473"
+       x="263.30621"
+       height="10.690781"
+       width="130.2001"
+       id="rect1967"
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1" />
+    <rect
+       y="566.99823"
+       x="263.04373"
+       height="10.156241"
+       width="131.22932"
+       id="rect1969"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1971"
+       width="131.22932"
+       height="10.156241"
+       x="263.04373"
+       y="588.16504" />
+    <rect
+       y="609.33179"
+       x="263.04373"
+       height="10.156241"
+       width="131.22932"
+       id="rect1973"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <text
+       id="text1977"
+       y="552.13293"
+       x="267.32004"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:13.2583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         dx="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         y="552.13293"
+         x="267.32004"
+         id="tspan1975"
+         sodipodi:role="line">id Name Role  State Date-added</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="267.84921"
+       y="563.77472"
+       id="text1981"><tspan
+         sodipodi:role="line"
+         id="tspan1979"
+         x="267.84921"
+         y="563.77472"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">1   Admin556  Attendant     Blocked    22-33-3554</tspan></text>
+    <text
+       id="text1985"
+       y="573.82904"
+       x="267.84921"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="573.82904"
+         x="267.84921"
+         id="tspan1983"
+         sodipodi:role="line">2   Admin334  Admin       Open    22-3-4456</tspan></text>
+    <rect
+       ry="0.42989704"
+       y="524.5755"
+       x="308.23413"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1987"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1989"
+       width="42.703709"
+       height="7.1650519"
+       x="352.45734"
+       y="524.77051"
+       ry="0.42989704" />
+    <g
+       transform="translate(281.01986,305.71711)"
+       id="g1997">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1"
+         id="rect1991"
+         width="17.979399"
+         height="7.1650519"
+         x="95.405853"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="101.0279"
+         y="233.8071"
+         id="text1995"><tspan
+           sodipodi:role="line"
+           id="tspan1993"
+           x="101.0279"
+           y="233.8071"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">Add</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1999"
+       width="42.703709"
+       height="7.1650519"
+       x="264.01093"
+       y="524.42432"
+       ry="0.42989704" />
+    <path
+       inkscape:transform-center-y="0.33954595"
+       inkscape:transform-center-x="0.0030585446"
+       d="m 348.8066,526.90856 -0.58812,1.02926 -0.58812,1.02925 -0.5973,-1.02395 -0.59731,-1.02395 1.18542,-0.005 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.5191231"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:r2="0.68441027"
+       sodipodi:r1="1.3688205"
+       sodipodi:cy="527.59827"
+       sodipodi:cx="347.62424"
+       sodipodi:sides="3"
+       id="path2001"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       sodipodi:type="star" />
+    <text
+       id="text2005"
+       y="529.17645"
+       x="267.07251"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="529.17645"
+         x="267.07251"
+         id="tspan2003"
+         sodipodi:role="line">Name</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="311.29575"
+       y="528.79852"
+       id="text2009"><tspan
+         sodipodi:role="line"
+         id="tspan2007"
+         x="311.29575"
+         y="528.79852"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Role</tspan></text>
+    <text
+       id="text2013"
+       y="529.28979"
+       x="355.51895"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="529.28979"
+         x="355.51895"
+         id="tspan2011"
+         sodipodi:role="line">****</tspan></text>
+    <g
+       id="g2055"
+       transform="matrix(0.04202695,0,0,0.04202695,384.83597,570.66533)">
+      <g
+         id="g2023">
+        <path
+           id="path2015"
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z" />
+        <path
+           id="path2017"
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z" />
+        <path
+           id="path2019"
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z" />
+        <path
+           id="path2021"
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z" />
+      </g>
+      <g
+         id="g2025" />
+      <g
+         id="g2027" />
+      <g
+         id="g2029" />
+      <g
+         id="g2031" />
+      <g
+         id="g2033" />
+      <g
+         id="g2035" />
+      <g
+         id="g2037" />
+      <g
+         id="g2039" />
+      <g
+         id="g2041" />
+      <g
+         id="g2043" />
+      <g
+         id="g2045" />
+      <g
+         id="g2047" />
+      <g
+         id="g2049" />
+      <g
+         id="g2051" />
+      <g
+         id="g2053" />
+    </g>
+    <g
+       id="g2121"
+       transform="translate(0.37997173,483.726)">
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218"
+         id="rect2097"
+         width="36.478821"
+         height="146.67519"
+         x="219.4245"
+         y="22.084318"
+         ry="0" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134"
+         id="rect2099"
+         width="36.732136"
+         height="8.8663759"
+         x="219.69016"
+         y="70.183327" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="224.22751"
+         y="40.587231"
+         id="text2109"><tspan
+           sodipodi:role="line"
+           id="tspan2101"
+           x="224.22751"
+           y="40.587231"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557">Overview</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="52.426884"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan2103">Products</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="64.266541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan2105">Categories</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="76.106194"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan2107">Users</tspan><tspan
+           id="tspan1672"
+           sodipodi:role="line"
+           x="224.22751"
+           y="87.945847"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557">Orders</tspan></text>
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627"
+         id="rect2111"
+         width="154.6613"
+         height="10.386326"
+         x="248.14502"
+         y="22.043402" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="302.89337"
+         y="28.789335"
+         id="text2115"><tspan
+           sodipodi:role="line"
+           id="tspan2113"
+           x="302.89337"
+           y="28.789335"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557">Management Panel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         x="223.73369"
+         y="28.9436"
+         id="text2119"><tspan
+           sodipodi:role="line"
+           id="tspan2117"
+           x="223.73369"
+           y="28.9436"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101">Admin566</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1"
+       id="rect2129"
+       width="130.4574"
+       height="83.354713"
+       x="263.30106"
+       y="703.35144" />
+    <rect
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1"
+       id="rect2131"
+       width="130.2001"
+       height="10.690781"
+       x="263.30621"
+       y="703.88599" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect2133"
+       width="131.22932"
+       height="10.156241"
+       x="263.04373"
+       y="725.21948" />
+    <rect
+       y="746.38629"
+       x="263.04373"
+       height="10.156241"
+       width="131.22932"
+       id="rect2135"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect2137"
+       width="131.22932"
+       height="10.156241"
+       x="263.04373"
+       y="767.55304" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="267.32004"
+       y="710.35419"
+       id="text2141"><tspan
+         sodipodi:role="line"
+         id="tspan2139"
+         x="267.32004"
+         y="710.35419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         dx="0">id       CategoryName            Date</tspan></text>
+    <text
+       id="text2145"
+       y="721.99603"
+       x="267.84921"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:6.61458px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="721.99603"
+         x="267.84921"
+         id="tspan2143"
+         sodipodi:role="line">1    Attendant     23-44-2323</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:6.61458px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="267.84921"
+       y="732.05029"
+       id="text2149"><tspan
+         sodipodi:role="line"
+         id="tspan2147"
+         x="267.84921"
+         y="732.05029"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">2    Antiseptic     22-33-4443</tspan></text>
+    <g
+       id="g2161"
+       transform="translate(223.86983,461.82136)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect2155"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text2159"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan2157"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
+    <rect
+       ry="0.42989704"
+       y="681.58722"
+       x="307.9317"
+       height="7.1650519"
+       width="42.703709"
+       id="rect2163"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="310.99329"
+       y="686.33936"
+       id="text2169"><tspan
+         sodipodi:role="line"
+         id="tspan2167"
+         x="310.99329"
+         y="686.33936"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Category name</tspan></text>
+    <g
+       transform="matrix(0.04202695,0,0,0.04202695,283.61394,702.42793)"
+       id="g2219">
+      <g
+         id="g2187">
+        <path
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z"
+           id="path2179" />
+        <path
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z"
+           id="path2181" />
+        <path
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z"
+           id="path2183" />
+        <path
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z"
+           id="path2185" />
+      </g>
+      <g
+         id="g2189" />
+      <g
+         id="g2191" />
+      <g
+         id="g2193" />
+      <g
+         id="g2195" />
+      <g
+         id="g2197" />
+      <g
+         id="g2199" />
+      <g
+         id="g2201" />
+      <g
+         id="g2203" />
+      <g
+         id="g2205" />
+      <g
+         id="g2207" />
+      <g
+         id="g2209" />
+      <g
+         id="g2211" />
+      <g
+         id="g2213" />
+      <g
+         id="g2215" />
+      <g
+         id="g2217" />
+    </g>
+    <g
+       transform="translate(0.37997173,642.4761)"
+       id="g2277">
+      <rect
+         ry="0"
+         y="22.084318"
+         x="219.4245"
+         height="146.67519"
+         width="36.478821"
+         id="rect2253"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218" />
+      <rect
+         y="59.070827"
+         x="219.69016"
+         height="8.8663759"
+         width="36.732136"
+         id="rect2255"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134" />
+      <text
+         id="text2265"
+         y="40.587231"
+         x="224.22751"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="40.587231"
+           x="224.22751"
+           id="tspan2257"
+           sodipodi:role="line">Overview</tspan><tspan
+           id="tspan2259"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="52.426884"
+           x="224.22751"
+           sodipodi:role="line">Products</tspan><tspan
+           id="tspan2261"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="64.266541"
+           x="224.22751"
+           sodipodi:role="line">Categories</tspan><tspan
+           id="tspan2263"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="76.106194"
+           x="224.22751"
+           sodipodi:role="line">Users</tspan><tspan
+           id="tspan1674"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="87.945847"
+           x="224.22751"
+           sodipodi:role="line">Orders</tspan></text>
+      <rect
+         y="22.043402"
+         x="248.14502"
+         height="10.386326"
+         width="154.6613"
+         id="rect2267"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627" />
+      <text
+         id="text2271"
+         y="28.789335"
+         x="302.89337"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557"
+           y="28.789335"
+           x="302.89337"
+           id="tspan2269"
+           sodipodi:role="line">Management Panel</tspan></text>
+      <text
+         id="text2275"
+         y="28.9436"
+         x="223.73369"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101"
+           y="28.9436"
+           x="223.73369"
+           id="tspan2273"
+           sodipodi:role="line">Admin566</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.04202695,0,0,0.04202695,379.89068,728.91401)"
+       id="g2055-8">
+      <g
+         id="g2023-6">
+        <path
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z"
+           id="path2015-8" />
+        <path
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z"
+           id="path2017-6" />
+        <path
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z"
+           id="path2019-3" />
+        <path
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z"
+           id="path2021-0" />
+      </g>
+      <g
+         id="g2025-3" />
+      <g
+         id="g2027-7" />
+      <g
+         id="g2029-1" />
+      <g
+         id="g2031-8" />
+      <g
+         id="g2033-4" />
+      <g
+         id="g2035-3" />
+      <g
+         id="g2037-3" />
+      <g
+         id="g2039-6" />
+      <g
+         id="g2041-4" />
+      <g
+         id="g2043-3" />
+      <g
+         id="g2045-5" />
+      <g
+         id="g2047-4" />
+      <g
+         id="g2049-4" />
+      <g
+         id="g2051-0" />
+      <g
+         id="g2053-9" />
+    </g>
+    <rect
+       y="862.01782"
+       x="263.91202"
+       height="83.354713"
+       width="130.4574"
+       id="rect1308"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1" />
+    <rect
+       y="862.55237"
+       x="263.91718"
+       height="10.690781"
+       width="130.2001"
+       id="rect1310"
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1" />
+    <rect
+       y="883.88586"
+       x="263.65469"
+       height="10.156241"
+       width="131.22932"
+       id="rect1312"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1314"
+       width="131.22932"
+       height="10.156241"
+       x="263.65469"
+       y="905.05267" />
+    <rect
+       y="926.21942"
+       x="263.65469"
+       height="10.156241"
+       width="131.22932"
+       id="rect1316"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <text
+       id="text1320"
+       y="869.02057"
+       x="267.931"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         dx="0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         y="869.02057"
+         x="267.931"
+         id="tspan1318"
+         sodipodi:role="line">id       CategoryName            Date</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:6.61458px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="268.46017"
+       y="880.66241"
+       id="text1324"><tspan
+         sodipodi:role="line"
+         id="tspan1322"
+         x="268.46017"
+         y="880.66241"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">1    Attendant     23-44-2323</tspan></text>
+    <text
+       id="text1328"
+       y="890.71667"
+       x="268.46017"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:6.61458px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="890.71667"
+         x="268.46017"
+         id="tspan1326"
+         sodipodi:role="line">2    Antiseptic     22-33-4443</tspan></text>
+    <g
+       transform="translate(224.48078,620.48774)"
+       id="g1336">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1"
+         id="rect1330"
+         width="17.979399"
+         height="7.1650519"
+         x="95.405853"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="101.0279"
+         y="233.8071"
+         id="text1334"><tspan
+           sodipodi:role="line"
+           id="tspan1332"
+           x="101.0279"
+           y="233.8071"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">Add</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1338"
+       width="42.703709"
+       height="7.1650519"
+       x="308.54266"
+       y="840.2536"
+       ry="0.42989704" />
+    <text
+       id="text1342"
+       y="845.00574"
+       x="311.60425"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="845.00574"
+         x="311.60425"
+         id="tspan1340"
+         sodipodi:role="line">Category name</tspan></text>
+    <g
+       id="g1390"
+       transform="matrix(0.62485982,0,0,0.62485982,123.06734,730.52722)">
+      <rect
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter1533-8)"
+         id="rect1386"
+         width="111.45139"
+         height="88.198944"
+         x="272.08038"
+         y="220.76462" />
+      <rect
+         y="220.76462"
+         x="272.08038"
+         height="88.198944"
+         width="111.45139"
+         id="rect1388"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+    </g>
+    <rect
+       style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.264078;stroke-opacity:1"
+       id="rect1392"
+       width="69.757408"
+       height="11.225316"
+       x="292.97299"
+       y="867.43256"
+       ry="0.42989764" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="316.62018"
+       y="874.38159"
+       id="text1396"><tspan
+         sodipodi:role="line"
+         id="tspan1394"
+         x="316.62018"
+         y="874.38159"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;stroke-width:0.264583">Update Details</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.212214;stroke-opacity:1"
+       id="rect1398"
+       width="47.78183"
+       height="7.1650519"
+       x="305.02985"
+       y="888.63721"
+       ry="0.42989704" />
+    <text
+       id="text1402"
+       y="892.86023"
+       x="308.09149"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#000000;stroke-width:0.264583"
+         y="892.86023"
+         x="308.09149"
+         id="tspan1400"
+         sodipodi:role="line">Antiseptic</tspan></text>
+    <g
+       id="g1410"
+       transform="translate(223.97649,670.97418)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1404"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1408"
+         y="233.40619"
+         x="99.547173"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.40619"
+           x="99.547173"
+           id="tspan1406"
+           sodipodi:role="line">Update</tspan></text>
+    </g>
+    <g
+       id="g1436"
+       transform="translate(0.4617564,801.14248)">
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218"
+         id="rect1412"
+         width="36.478821"
+         height="146.67519"
+         x="219.4245"
+         y="22.084318"
+         ry="0" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134"
+         id="rect1414"
+         width="36.732136"
+         height="8.8663759"
+         x="219.69016"
+         y="59.070827" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="224.22751"
+         y="40.587231"
+         id="text1424"><tspan
+           sodipodi:role="line"
+           id="tspan1416"
+           x="224.22751"
+           y="40.587231"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557">Overview</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="52.426884"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1418">Products</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="64.266541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1420">Categories</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="76.106194"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1422">Users</tspan><tspan
+           id="tspan1678"
+           sodipodi:role="line"
+           x="224.22751"
+           y="87.945847"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557">Orders</tspan></text>
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627"
+         id="rect1426"
+         width="154.6613"
+         height="10.386326"
+         x="248.14502"
+         y="22.043402" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="302.89337"
+         y="28.789335"
+         id="text1430"><tspan
+           sodipodi:role="line"
+           id="tspan1428"
+           x="302.89337"
+           y="28.789335"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557">Management Panel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         x="223.73369"
+         y="28.9436"
+         id="text1434"><tspan
+           sodipodi:role="line"
+           id="tspan1432"
+           x="223.73369"
+           y="28.9436"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101">Admin566</tspan></text>
+    </g>
+    <g
+       id="g1478"
+       transform="matrix(0.04202695,0,0,0.04202695,380.50163,887.58039)">
+      <g
+         id="g1446">
+        <path
+           id="path1438"
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z" />
+        <path
+           id="path1440"
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z" />
+        <path
+           id="path1442"
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z" />
+        <path
+           id="path1444"
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z" />
+      </g>
+      <g
+         id="g1448" />
+      <g
+         id="g1450" />
+      <g
+         id="g1452" />
+      <g
+         id="g1454" />
+      <g
+         id="g1456" />
+      <g
+         id="g1458" />
+      <g
+         id="g1460" />
+      <g
+         id="g1462" />
+      <g
+         id="g1464" />
+      <g
+         id="g1466" />
+      <g
+         id="g1468" />
+      <g
+         id="g1470" />
+      <g
+         id="g1472" />
+      <g
+         id="g1474" />
+      <g
+         id="g1476" />
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1"
+       id="rect1482"
+       width="130.4574"
+       height="83.354713"
+       x="66.590683"
+       y="545.60791" />
+    <rect
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1"
+       id="rect1484"
+       width="130.2001"
+       height="10.690781"
+       x="66.59584"
+       y="546.14246" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1486"
+       width="131.22932"
+       height="10.156241"
+       x="66.333359"
+       y="567.47589" />
+    <rect
+       y="588.64252"
+       x="66.333359"
+       height="10.156241"
+       width="131.22932"
+       id="rect1488"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect1490"
+       width="131.22932"
+       height="10.156241"
+       x="66.333359"
+       y="609.80914" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:13.2583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="70.609665"
+       y="552.61066"
+       id="text1494"><tspan
+         sodipodi:role="line"
+         id="tspan1492"
+         x="70.609665"
+         y="552.61066"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         dx="0">id Name Role  State Date-added</tspan></text>
+    <text
+       id="text1498"
+       y="564.25238"
+       x="71.13884"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="564.25238"
+         x="71.13884"
+         id="tspan1496"
+         sodipodi:role="line">1   Admin556  Attendant     Blocked    22-33-3554</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.13884"
+       y="574.30664"
+       id="text1502"><tspan
+         sodipodi:role="line"
+         id="tspan1500"
+         x="71.13884"
+         y="574.30664"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583">2   Admin334  Admin       Open    22-3-4456</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1504"
+       width="42.703709"
+       height="7.1650519"
+       x="111.52376"
+       y="525.05341"
+       ry="0.42989704" />
+    <rect
+       ry="0.42989704"
+       y="525.24841"
+       x="155.74696"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1506"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <g
+       id="g1514"
+       transform="translate(84.309488,306.1948)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1508"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1512"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan1510"
+           sodipodi:role="line">Add</tspan></text>
+    </g>
+    <rect
+       ry="0.42989704"
+       y="524.90216"
+       x="67.300552"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1516"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       id="path1518"
+       sodipodi:sides="3"
+       sodipodi:cx="150.91386"
+       sodipodi:cy="528.07612"
+       sodipodi:r1="1.3688205"
+       sodipodi:r2="0.68441027"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:arg2="0.5191231"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 152.09622,527.3864 -0.58811,1.02926 -0.58812,1.02926 -0.59731,-1.02395 -0.5973,-1.02396 1.18542,-0.005 z"
+       inkscape:transform-center-x="0.0030585446"
+       inkscape:transform-center-y="0.33954595" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="70.362137"
+       y="529.6543"
+       id="text1522"><tspan
+         sodipodi:role="line"
+         id="tspan1520"
+         x="70.362137"
+         y="529.6543"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Name</tspan></text>
+    <text
+       id="text1526"
+       y="529.27637"
+       x="114.58537"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="529.27637"
+         x="114.58537"
+         id="tspan1524"
+         sodipodi:role="line">Role</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="158.80858"
+       y="529.76764"
+       id="text1530"><tspan
+         sodipodi:role="line"
+         id="tspan1528"
+         x="158.80858"
+         y="529.76764"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">****</tspan></text>
+    <g
+       transform="matrix(0.04202695,0,0,0.04202695,188.1256,571.14302)"
+       id="g1572">
+      <g
+         id="g1540">
+        <path
+           d="M 5.243,44.844 42.378,7.708 52.277,17.607 15.141,54.742 Z"
+           id="path1532" />
+        <path
+           d="m 56.521,13.364 1.414,-1.414 c 1.322,-1.322 2.05,-3.079 2.05,-4.949 0,-1.87 -0.728,-3.627 -2.05,-4.949 C 56.613,0.73 54.855,0 52.985,0 c -1.87,0 -3.627,0.729 -4.95,2.051 l -1.414,1.414 z"
+           id="path1534" />
+        <path
+           d="M 4.099,46.527 0.051,58.669 c -0.12,0.359 -0.026,0.756 0.242,1.023 0.19,0.19 0.446,0.293 0.707,0.293 0.106,0 0.212,-0.017 0.316,-0.052 l 12.141,-4.047 z"
+           id="path1536" />
+        <path
+           d="m 43.793,6.294 1.415,-1.415 9.899,9.899 -1.415,1.415 z"
+           id="path1538" />
+      </g>
+      <g
+         id="g1542" />
+      <g
+         id="g1544" />
+      <g
+         id="g1546" />
+      <g
+         id="g1548" />
+      <g
+         id="g1550" />
+      <g
+         id="g1552" />
+      <g
+         id="g1554" />
+      <g
+         id="g1556" />
+      <g
+         id="g1558" />
+      <g
+         id="g1560" />
+      <g
+         id="g1562" />
+      <g
+         id="g1564" />
+      <g
+         id="g1566" />
+      <g
+         id="g1568" />
+      <g
+         id="g1570" />
+    </g>
+    <g
+       transform="matrix(0.62485982,0,0,0.62485982,-72.456212,409.03813)"
+       id="g1578">
+      <rect
+         y="220.76462"
+         x="272.08038"
+         height="88.198944"
+         width="111.45139"
+         id="rect1574"
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter1533-8)" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+         id="rect1576"
+         width="111.45139"
+         height="88.198944"
+         x="272.08038"
+         y="220.76462" />
+    </g>
+    <rect
+       ry="0.42989764"
+       y="545.94324"
+       x="97.449448"
+       height="11.225316"
+       width="69.757408"
+       id="rect1580"
+       style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.264078;stroke-opacity:1" />
+    <text
+       id="text1584"
+       y="552.89221"
+       x="121.09663"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;stroke-width:0.264583"
+         y="552.89221"
+         x="121.09663"
+         id="tspan1582"
+         sodipodi:role="line">Update Details</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.211024;stroke-opacity:1"
+       id="rect1586"
+       width="47.247295"
+       height="7.1650519"
+       x="109.50633"
+       y="560.94135"
+       ry="0.42989704" />
+    <text
+       id="text1590"
+       y="565.69348"
+       x="112.56792"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#1a1a1a;stroke-width:0.264583"
+         y="565.69348"
+         x="112.56792"
+         id="tspan1588"
+         sodipodi:role="line">Admin566</tspan></text>
+    <rect
+       ry="0.42989704"
+       y="579.31854"
+       x="109.50633"
+       height="7.1650519"
+       width="47.78183"
+       id="rect1592"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.212214;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#b3b3b3;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="112.56795"
+       y="583.54156"
+       id="text1596"><tspan
+         sodipodi:role="line"
+         id="tspan1594"
+         x="112.56795"
+         y="583.54156"
+         style="font-size:2.82223px;fill:#b3b3b3;stroke-width:0.264583">Confirm Password</tspan></text>
+    <g
+       transform="translate(28.452938,361.65594)"
+       id="g1604">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1"
+         id="rect1598"
+         width="17.979399"
+         height="7.1650519"
+         x="95.405853"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="99.547173"
+         y="233.40619"
+         id="text1602"><tspan
+           sodipodi:role="line"
+           id="tspan1600"
+           x="99.547173"
+           y="233.40619"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">Update</tspan></text>
+    </g>
+    <g
+       transform="translate(-196.3304,484.20369)"
+       id="g1630">
+      <rect
+         ry="0"
+         y="22.084318"
+         x="219.4245"
+         height="146.67519"
+         width="36.478821"
+         id="rect1606"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218" />
+      <rect
+         y="70.183327"
+         x="219.69016"
+         height="8.8663759"
+         width="36.732136"
+         id="rect1608"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134" />
+      <text
+         id="text1618"
+         y="40.587231"
+         x="224.22751"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="40.587231"
+           x="224.22751"
+           id="tspan1610"
+           sodipodi:role="line">Overview</tspan><tspan
+           id="tspan1612"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="52.426884"
+           x="224.22751"
+           sodipodi:role="line">Products</tspan><tspan
+           id="tspan1614"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="64.266541"
+           x="224.22751"
+           sodipodi:role="line">Categories</tspan><tspan
+           id="tspan1616"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="76.106194"
+           x="224.22751"
+           sodipodi:role="line">Users</tspan><tspan
+           id="tspan1676"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="87.945847"
+           x="224.22751"
+           sodipodi:role="line">Orders</tspan></text>
+      <rect
+         y="22.043402"
+         x="248.14502"
+         height="10.386326"
+         width="154.6613"
+         id="rect1620"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627" />
+      <text
+         id="text1624"
+         y="28.789335"
+         x="302.89337"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557"
+           y="28.789335"
+           x="302.89337"
+           id="tspan1622"
+           sodipodi:role="line">Management Panel</tspan></text>
+      <text
+         id="text1628"
+         y="28.9436"
+         x="223.73369"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101"
+           y="28.9436"
+           x="223.73369"
+           id="tspan1626"
+           sodipodi:role="line">Admin566</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.212214;stroke-opacity:1"
+       id="rect1632"
+       width="47.78183"
+       height="7.1650519"
+       x="109.50633"
+       y="570.32275"
+       ry="0.42989704" />
+    <text
+       id="text1636"
+       y="574.54578"
+       x="112.56795"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="574.54578"
+         x="112.56795"
+         id="tspan1634"
+         sodipodi:role="line">Password</tspan></text>
+    <g
+       id="g1630-4"
+       transform="translate(-195.38208,641.06802)">
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218"
+         id="rect1606-4"
+         width="36.478821"
+         height="146.67519"
+         x="219.4245"
+         y="22.084318"
+         ry="0" />
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134"
+         id="rect1608-2"
+         width="36.732136"
+         height="8.8663759"
+         x="219.69016"
+         y="81.824989" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="224.22751"
+         y="40.587231"
+         id="text1618-7"><tspan
+           sodipodi:role="line"
+           id="tspan1610-1"
+           x="224.22751"
+           y="40.587231"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557">Overview</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="52.426884"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1612-9">Products</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="64.266541"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1614-4">Categories</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="76.106194"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1616-0">Users</tspan><tspan
+           sodipodi:role="line"
+           x="224.22751"
+           y="87.945847"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           id="tspan1676-5">Orders</tspan></text>
+      <rect
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627"
+         id="rect1620-6"
+         width="154.6613"
+         height="10.386326"
+         x="248.14502"
+         y="22.043402" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         x="302.89337"
+         y="28.789335"
+         id="text1624-6"><tspan
+           sodipodi:role="line"
+           id="tspan1622-0"
+           x="302.89337"
+           y="28.789335"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557">Management Panel</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         x="223.73369"
+         y="28.9436"
+         id="text1628-2"><tspan
+           sodipodi:role="line"
+           id="tspan1626-9"
+           x="223.73369"
+           y="28.9436"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101">Admin566</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.23396;stroke-opacity:1"
+       id="rect2467"
+       width="130.4574"
+       height="83.354713"
+       x="67.539001"
+       y="861.75195" />
+    <rect
+       style="opacity:1;fill:#49f349;fill-opacity:1;stroke:none;stroke-width:0.181119;stroke-opacity:1"
+       id="rect2469"
+       width="130.2001"
+       height="10.690781"
+       x="67.544167"
+       y="862.28644" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect2471"
+       width="131.22932"
+       height="10.156241"
+       x="66.621712"
+       y="883.28992" />
+    <rect
+       y="904.78668"
+       x="67.281677"
+       height="10.156241"
+       width="131.22932"
+       id="rect2473"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.259608;stroke-opacity:1"
+       id="rect2475"
+       width="131.22932"
+       height="10.156241"
+       x="67.281677"
+       y="925.95312" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;line-height:1.25;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';letter-spacing:0px;word-spacing:13.2583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.557983"
+       y="868.75476"
+       id="text2479"><tspan
+         sodipodi:role="line"
+         id="tspan2477"
+         x="71.557983"
+         y="868.75476"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.52777px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';stroke-width:0.264583"
+         dx="0">id Name Quantity  Soldby Date-added</tspan></text>
+    <text
+       id="text2483"
+       y="880.39642"
+       x="72.087158"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:2.64583px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.264583"
+         y="880.39642"
+         x="72.087158"
+         id="tspan2481"
+         sodipodi:role="line">1   Paracetamol   2         Carto    22-33-3554</tspan></text>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect2485"
+       width="42.703709"
+       height="7.1650519"
+       x="112.47208"
+       y="841.19751"
+       ry="0.42989704" />
+    <rect
+       ry="0.42989704"
+       y="841.39252"
+       x="156.6953"
+       height="7.1650519"
+       width="42.703709"
+       id="rect2487"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <g
+       id="g2495"
+       transform="translate(83.841278,618.16206)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect2489"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text2493"
+         y="233.8071"
+         x="101.0279"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="101.0279"
+           id="tspan2491"
+           sodipodi:role="line">Add</tspan></text>
+      <rect
+         ry="0.42989764"
+         y="6798.3389"
+         x="165.94092"
+         height="12.748808"
+         width="5.6661367"
+         id="rect2279"
+         style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.332999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    </g>
+    <rect
+       ry="0.42989704"
+       y="841.04614"
+       x="68.248871"
+       height="7.1650519"
+       width="42.703709"
+       id="rect2497"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <path
+       sodipodi:type="star"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       id="path2499"
+       sodipodi:sides="3"
+       sodipodi:cx="151.86218"
+       sodipodi:cy="844.22022"
+       sodipodi:r1="1.3688205"
+       sodipodi:r2="0.68441027"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:arg2="0.5191231"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 153.04454,843.53051 -0.58812,1.02925 -0.58811,1.02926 -0.59731,-1.02395 -0.5973,-1.02395 1.18542,-0.005 z"
+       inkscape:transform-center-x="0.0030585446"
+       inkscape:transform-center-y="0.33954595" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="71.310455"
+       y="845.7984"
+       id="text2503"><tspan
+         sodipodi:role="line"
+         id="tspan2501"
+         x="71.310455"
+         y="845.7984"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Product</tspan></text>
+    <text
+       id="text2507"
+       y="845.42053"
+       x="115.5337"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="845.42053"
+         x="115.5337"
+         id="tspan2505"
+         sodipodi:role="line">Category</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="159.75691"
+       y="845.91174"
+       id="text2511"><tspan
+         sodipodi:role="line"
+         id="tspan2509"
+         x="159.75691"
+         y="845.91174"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Quantity</tspan></text>
+    <g
+       transform="translate(-195.38208,800.34727)"
+       id="g2539">
+      <rect
+         ry="0"
+         y="22.084318"
+         x="219.4245"
+         height="146.67519"
+         width="36.478821"
+         id="rect2513"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.413218" />
+      <rect
+         y="81.824989"
+         x="219.69016"
+         height="8.8663759"
+         width="36.732136"
+         id="rect2515"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.498134" />
+      <text
+         id="text2527"
+         y="40.587231"
+         x="224.22751"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:2.95;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="40.587231"
+           x="224.22751"
+           id="tspan2517"
+           sodipodi:role="line">Overview</tspan><tspan
+           id="tspan2519"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="52.426884"
+           x="224.22751"
+           sodipodi:role="line">Products</tspan><tspan
+           id="tspan2521"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="64.266541"
+           x="224.22751"
+           sodipodi:role="line">Categories</tspan><tspan
+           id="tspan2523"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="76.106194"
+           x="224.22751"
+           sodipodi:role="line">Users</tspan><tspan
+           id="tspan2525"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.01247px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';stroke-width:0.501557"
+           y="87.945847"
+           x="224.22751"
+           sodipodi:role="line">Orders</tspan></text>
+      <rect
+         y="22.043402"
+         x="248.14502"
+         height="10.386326"
+         width="154.6613"
+         id="rect2529"
+         style="opacity:1;fill:#e6e6e6;fill-opacity:1;stroke-width:0.456627" />
+      <text
+         id="text2533"
+         y="28.789335"
+         x="302.89337"
+         style="font-style:normal;font-weight:normal;font-size:4.01247px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.501557"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.01247px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.501557"
+           y="28.789335"
+           x="302.89337"
+           id="tspan2531"
+           sodipodi:role="line">Management Panel</tspan></text>
+      <text
+         id="text2537"
+         y="28.9436"
+         x="223.73369"
+         style="font-style:normal;font-weight:normal;font-size:4.05723px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.338101"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.05723px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#550000;fill-opacity:1;stroke-width:0.338101"
+           y="28.9436"
+           x="223.73369"
+           id="tspan2535"
+           sodipodi:role="line">Admin566</tspan></text>
+    </g>
+    <rect
+       ry="0.42989704"
+       y="875.13782"
+       x="108.96303"
+       height="7.1650519"
+       width="47.247299"
+       id="rect1586-1"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.211024;stroke-opacity:1" />
+    <g
+       transform="translate(0,3.7041609)"
+       id="g1683">
+      <g
+         transform="matrix(0.62485982,0,0,0.62485982,-72.999516,719.53041)"
+         id="g1578-6"
+         style="display:inline">
+        <rect
+           y="220.76462"
+           x="272.08038"
+           height="88.198944"
+           width="111.45139"
+           id="rect1574-9"
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter1533-8-7)" />
+        <rect
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+           id="rect1576-5"
+           width="111.45139"
+           height="88.198944"
+           x="272.08038"
+           y="220.76462" />
+      </g>
+      <rect
+         ry="0.42989764"
+         y="856.43561"
+         x="96.906143"
+         height="11.225316"
+         width="69.757408"
+         id="rect1580-1"
+         style="display:inline;opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.264078;stroke-opacity:1" />
+      <text
+         id="text1584-1"
+         y="863.38458"
+         x="120.55334"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;stroke-width:0.264583"
+           y="863.38458"
+           x="120.55334"
+           id="tspan1582-9"
+           sodipodi:role="line">Update Details</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="112.02461"
+       y="879.88983"
+       id="text1590-5"><tspan
+         sodipodi:role="line"
+         id="tspan1588-7"
+         x="112.02461"
+         y="879.88983"
+         style="font-size:2.82223px;fill:#1a1a1a;stroke-width:0.264583">Paracetamol</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.212214;stroke-opacity:1"
+       id="rect1592-8"
+       width="47.78183"
+       height="7.1650519"
+       x="108.96303"
+       y="893.51489"
+       ry="0.42989704" />
+    <text
+       id="text1596-7"
+       y="897.73798"
+       x="112.02464"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#000000;stroke-width:0.264583"
+         y="897.73798"
+         x="112.02464"
+         id="tspan1594-8"
+         sodipodi:role="line">45</tspan></text>
+    <g
+       style="display:inline"
+       id="g1604-7"
+       transform="translate(27.90963,675.85238)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1598-1"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1602-0"
+         y="233.40619"
+         x="99.547173"
+         style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.40619"
+           x="99.547173"
+           id="tspan1600-4"
+           sodipodi:role="line">Update</tspan></text>
+    </g>
+    <rect
+       ry="0.42989704"
+       y="884.51923"
+       x="108.96303"
+       height="7.1650519"
+       width="47.78183"
+       id="rect1632-3"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.212214;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="112.02464"
+       y="888.74231"
+       id="text1636-1"><tspan
+         sodipodi:role="line"
+         id="tspan1634-1"
+         x="112.02464"
+         y="888.74231"
+         style="font-size:2.82223px;fill:#000000;stroke-width:0.264583">Sachet</tspan></text>
+    <rect
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.210193;stroke-opacity:1"
+       id="rect2497-1"
+       width="42.703709"
+       height="7.8650517"
+       x="136.56895"
+       y="850.72992"
+       ry="0.47189644" />
+    <text
+       id="text2503-6"
+       y="855.54449"
+       x="139.10138"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="855.54449"
+         x="139.10138"
+         id="tspan2501-4"
+         sodipodi:role="line">Date (optional)</tspan></text>
+    <g
+       id="g1712"
+       transform="matrix(0.57979571,0,0,0.57979571,-113.95314,125.15473)"
+       style="fill:#ffffff;stroke:#ffffff">
+      <g
+         transform="matrix(0.23530481,0,0,0.23530481,-117.17597,65.331917)"
+         id="g1698"
+         style="fill:#ffffff;stroke:#ffffff">
+        <rect
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="rect1690"
+           width="42.994793"
+           height="11.575521"
+           x="-122.36979"
+           y="106.66016" />
+        <path
+           sodipodi:type="star"
+           style="fill:#ffffff;stroke:#ffffff;stroke-width:1.16986;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="path1692"
+           sodipodi:sides="3"
+           sodipodi:cx="-119.98594"
+           sodipodi:cy="111.45084"
+           sodipodi:r1="17.52404"
+           sodipodi:r2="8.7306366"
+           sodipodi:arg1="1.0491781"
+           sodipodi:arg2="2.0963756"
+           inkscape:flatsided="false"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m -111.25399,126.64443 -13.11223,-7.64129 -13.14372,-7.587 13.17367,-7.53488 13.14239,-7.589297 -0.0614,15.176167 z"
+           inkscape:transform-center-x="4.2767406"
+           inkscape:transform-center-y="-0.10192866" />
+      </g>
+      <rect
+         y="84.397621"
+         x="-153.11673"
+         height="15.748902"
+         width="13.415823"
+         id="rect1700"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:0.947322;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         y="89.579659"
+         x="-141.72333"
+         height="0.73082125"
+         width="4.7503052"
+         id="rect1702"
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         style="fill:#ffffff;stroke:#ffffff;stroke-width:1.4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect1704"
+         width="4.7503052"
+         height="0.73082125"
+         x="-141.72333"
+         y="93.283821" />
+    </g>
+    <ellipse
+       ry="27.261492"
+       rx="26.994219"
+       cy="130.40602"
+       cx="371.46704"
+       id="path1638"
+       style="fill:#333333;fill-opacity:1;stroke-width:0.264583" />
+    <path
+       clip-path="url(#clipPath1660)"
+       transform="matrix(-0.61740357,-0.14108288,0.08798512,-0.98999778,560.41822,264.59962)"
+       inkscape:transform-center-y="-2.5740722"
+       inkscape:transform-center-x="-4.4942608"
+       d="M 372.5737,124.28033 343.90622,107.95736 315.23874,91.634385 343.70859,74.969106 372.17844,58.303828 372.37607,91.29208 Z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="2.0884043"
+       sodipodi:arg1="1.0412067"
+       sodipodi:r2="19.046118"
+       sodipodi:r1="38.092236"
+       sodipodi:cy="91.406181"
+       sodipodi:cx="353.33029"
+       sodipodi:sides="3"
+       id="path1650"
+       style="fill:#800000;stroke-width:0.264583"
+       sodipodi:type="star" />
+    <path
+       transform="matrix(0.87283584,0.43483882,-0.43483882,0.87283584,106.80492,-141.9683)"
+       clip-path="url(#clipPath1656)"
+       inkscape:transform-center-y="-1.0723152"
+       inkscape:transform-center-x="7.0786103"
+       d="m 397.98575,175.87407 -28.50798,0.15565 -28.50798,0.15565 14.1192,-24.76646 14.11919,-24.76645 14.38879,24.61081 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="1.5653366"
+       sodipodi:arg1="0.51813907"
+       sodipodi:r2="16.459333"
+       sodipodi:r1="32.918667"
+       sodipodi:cy="159.57063"
+       sodipodi:cx="369.38791"
+       sodipodi:sides="3"
+       id="path1652"
+       style="fill:#000080;stroke-width:0.264583"
+       sodipodi:type="star" />
+    <path
+       id="path958-1"
+       d="m 348.5807,81.896562 c 13.56294,-19.561951 2.09897,-15.007804 9.61455,-21.414034 6.65464,-5.672373 10.18258,8.085168 15.50897,5.498318 3.99836,-1.941871 14.77534,-23.313393 14.77534,-23.313393"
+       style="display:inline;fill:none;stroke:#49f349;stroke-width:1.66496;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:nodetypes="cssc" />
+    <g
+       style="display:inline;stroke:#800000;stroke-width:0.504325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       transform="matrix(0.7706224,0,0,1.2522727,247.63769,27.561891)"
+       id="g952-9">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#800000;stroke-width:0.504325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect942-5"
+         width="0.33883548"
+         height="30.602362"
+         x="-130.42619"
+         y="12.506315"
+         transform="scale(-1,1)" />
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:#800000;stroke-width:0.504325;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect944-9"
+         width="64.27832"
+         height="0.26726952"
+         x="130.42752"
+         y="42.773872" />
+    </g>
+    <text
+       id="text972-1"
+       y="48.781445"
+       x="343.94174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;line-height:3.35;font-family:sans-serif;-inkscape-font-specification:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.365157"
+       xml:space="preserve"><tspan
+         id="tspan988-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365157"
+         y="48.781445"
+         x="343.94174"
+         sodipodi:role="line">50</tspan><tspan
+         id="tspan994-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365157"
+         y="55.305569"
+         x="343.94174"
+         sodipodi:role="line">40</tspan><tspan
+         id="tspan1000-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365157"
+         y="61.829693"
+         x="343.94174"
+         sodipodi:role="line">30</tspan><tspan
+         id="tspan1007-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365157"
+         y="68.353821"
+         x="343.94174"
+         sodipodi:role="line">20</tspan><tspan
+         id="tspan1009-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365157"
+         y="74.877945"
+         x="343.94174"
+         sodipodi:role="line">10</tspan><tspan
+         id="tspan1011-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:1.9475px;font-family:sans-serif;-inkscape-font-specification:sans-serif;stroke-width:0.365157"
+         y="81.402069"
+         x="343.94174"
+         sodipodi:role="line">0</tspan></text>
+    <text
+       id="text1015-1"
+       y="84.589409"
+       x="348.95319"
+       style="font-style:normal;font-weight:normal;font-size:1.9475px;line-height:1.95;font-family:sans-serif;letter-spacing:0.368808px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.365157"
+       xml:space="preserve"><tspan
+         style="font-size:1.9475px;stroke-width:0.365157"
+         y="84.589409"
+         x="348.95319"
+         id="tspan1013-8"
+         sodipodi:role="line">1 2 3 4 5 6 7 8 9 10 11 12 13 14 15</tspan></text>
+    <g
+       transform="translate(-20.475138,-106.46129)"
+       style="display:inline"
+       id="g1683-5">
+      <g
+         style="display:inline"
+         id="g1578-6-1"
+         transform="matrix(0.87446447,0,0,0.87446447,-140.00477,641.5044)">
+        <rect
+           style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1;filter:url(#filter1533-8-7-0)"
+           id="rect1574-9-1"
+           width="111.45139"
+           height="88.198944"
+           x="272.08038"
+           y="220.76462" />
+        <rect
+           y="220.76462"
+           x="272.08038"
+           height="88.198944"
+           width="111.45139"
+           id="rect1576-5-6"
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1" />
+      </g>
+      <rect
+         style="display:inline;opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.369566;stroke-opacity:1"
+         id="rect1580-1-8"
+         width="97.622498"
+         height="15.709348"
+         x="97.770897"
+         y="833.09735"
+         ry="0.6016233" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="132.72417"
+         y="841.68872"
+         id="text1584-1-8"><tspan
+           sodipodi:role="line"
+           id="tspan1582-9-8"
+           x="132.72417"
+           y="841.68872"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond Bold';fill:#ffffff;stroke-width:0.264583">Update Details</tspan></text>
+    </g>
+    <rect
+       ry="0.42989704"
+       y="767.94098"
+       x="81.260368"
+       height="7.1650519"
+       width="42.703709"
+       id="rect1504-5"
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1" />
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1506-0"
+       width="42.703709"
+       height="7.1650519"
+       x="81.421455"
+       y="759.96826"
+       ry="0.42989704" />
+    <g
+       transform="matrix(0.73888722,0,0,0.73888722,10.456732,617.19767)"
+       id="g1514-0">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1"
+         id="rect1508-0"
+         width="17.979399"
+         height="7.1650519"
+         x="95.405853"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="101.0279"
+         y="233.8071"
+         id="text1512-7"><tspan
+           sodipodi:role="line"
+           id="tspan1510-5"
+           x="101.0279"
+           y="233.8071"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">Add</tspan></text>
+    </g>
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.200621;stroke-opacity:1"
+       id="rect1516-7"
+       width="42.703709"
+       height="7.1650519"
+       x="81.280884"
+       y="752.01007"
+       ry="0.42989704" />
+    <path
+       inkscape:transform-center-y="0.33954595"
+       inkscape:transform-center-x="0.0030585446"
+       d="m 121.83284,771.33232 -0.58812,1.02926 -0.58811,1.02926 -0.59731,-1.02395 -0.5973,-1.02395 1.18542,-0.005 z"
+       inkscape:randomized="0"
+       inkscape:rounded="0"
+       inkscape:flatsided="false"
+       sodipodi:arg2="0.5191231"
+       sodipodi:arg1="-0.52807445"
+       sodipodi:r2="0.68441027"
+       sodipodi:r1="1.3688205"
+       sodipodi:cy="772.02204"
+       sodipodi:cx="120.65048"
+       sodipodi:sides="3"
+       id="path1518-6"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.137942;stroke-opacity:1"
+       sodipodi:type="star" />
+    <text
+       id="text1522-5"
+       y="756.76221"
+       x="84.342468"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="756.76221"
+         x="84.342468"
+         id="tspan1520-6"
+         sodipodi:role="line">Product</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="84.321991"
+       y="772.16394"
+       id="text1526-9"><tspan
+         sodipodi:role="line"
+         id="tspan1524-1"
+         x="84.321991"
+         y="772.16394"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Unit</tspan></text>
+    <text
+       id="text1530-1"
+       y="764.48749"
+       x="84.48307"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583"
+         y="764.48749"
+         x="84.48307"
+         id="tspan1528-0"
+         sodipodi:role="line">Quantity</tspan></text>
+    <rect
+       ry="0.47189644"
+       y="776.36414"
+       x="81.145775"
+       height="7.8650522"
+       width="42.703709"
+       id="rect2497-1-6"
+       style="display:inline;opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.210193;stroke-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="83.6782"
+       y="781.17877"
+       id="text2503-6-2"><tspan
+         sodipodi:role="line"
+         id="tspan2501-4-0"
+         x="83.6782"
+         y="781.17877"
+         style="font-size:2.82223px;fill:#999999;stroke-width:0.264583">Date (optional)</tspan></text>
+    <text
+       id="text1728"
+       y="754.27167"
+       x="132.86505"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:2.82222px;stroke-width:0.264583"
+         y="754.27167"
+         x="132.86505"
+         id="tspan1726"
+         sodipodi:role="line">Paracetamol 2pcs counting</tspan></text>
+    <g
+       id="g1736"
+       transform="matrix(0.66055338,0,0,0.66055338,96.320385,644.66242)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1730"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1734"
+         y="233.8071"
+         x="100.22681"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="100.22681"
+           id="tspan1732"
+           sodipodi:role="line">Save</tspan></text>
+    </g>
+    <g
+       transform="matrix(1.0417451,0.00771486,0.00830898,-1.1219703,-8.0847221,1478.576)"
+       id="g2208">
+      <rect
+         ry="0.66698551"
+         y="-699.83154"
+         x="-109.31881"
+         height="23.949253"
+         width="31.931913"
+         id="rect1852"
+         style="fill:#ffffff;stroke:#ececec;stroke-width:0.316814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         transform="matrix(-0.99996155,-0.00876863,0.01017105,-0.99994827,0,0)" />
+    </g>
+    <text
+       id="text2196"
+       y="705.86292"
+       x="76.952248"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';fill:#550000;stroke-width:0.264583"
+         y="705.86292"
+         x="76.952248"
+         id="tspan2194"
+         sodipodi:role="line">Order 001</tspan></text>
+    <text
+       id="text2200"
+       y="709.87708"
+       x="81.623962"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-size:3.175px;stroke-width:0.264583"
+         y="709.87708"
+         x="81.623962"
+         id="tspan2198"
+         sodipodi:role="line">3 items</tspan></text>
+    <text
+       id="text2204"
+       y="697.06744"
+       x="79.800079"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583"
+         y="697.06744"
+         x="79.800079"
+         id="tspan2202"
+         sodipodi:role="line">27/01/2021</tspan></text>
+    <text
+       id="text2212"
+       y="717.02081"
+       x="84.534378"
+       style="font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';fill:#0000ff;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="fill:#0000ff;stroke-width:0.264583"
+         y="717.02081"
+         x="84.534378"
+         id="tspan2210"
+         sodipodi:role="line">view</tspan></text>
+    <g
+       id="g2220"
+       transform="matrix(1.0417451,0.00771486,0.00830898,-1.1219703,28.956946,1478.576)">
+      <rect
+         transform="matrix(-0.99996155,-0.00876863,0.01017105,-0.99994827,0,0)"
+         style="fill:#ffffff;stroke:#ececec;stroke-width:0.316814;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         id="rect2218"
+         width="31.931913"
+         height="23.949253"
+         x="-109.31881"
+         y="-699.83154"
+         ry="0.66698551" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.64444px;line-height:1.25;font-family:sans-serif;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.99387"
+       y="705.86292"
+       id="text2224"><tspan
+         sodipodi:role="line"
+         id="tspan2222"
+         x="113.99387"
+         y="705.86292"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';fill:#550000;stroke-width:0.264583">Order 001</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:3.175px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="118.66561"
+       y="709.87708"
+       id="text2228"><tspan
+         sodipodi:role="line"
+         id="tspan2226"
+         x="118.66561"
+         y="709.87708"
+         style="font-size:3.175px;stroke-width:0.264583">3 items</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="116.84174"
+       y="697.06744"
+       id="text2232"><tspan
+         sodipodi:role="line"
+         id="tspan2230"
+         x="116.84174"
+         y="697.06744"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.264583">27/01/2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.88056px;line-height:1.25;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';fill:#0000ff;stroke-width:0.264583"
+       x="121.57603"
+       y="717.02081"
+       id="text2236"><tspan
+         sodipodi:role="line"
+         id="tspan2234"
+         x="121.57603"
+         y="717.02081"
+         style="fill:#0000ff;stroke-width:0.264583">view</tspan></text>
+    <rect
+       ry="0.4695923"
+       y="677.93951"
+       x="141.70039"
+       height="6.6804171"
+       width="40.224064"
+       id="rect2238"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.298408;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+    <g
+       style="display:inline"
+       id="g1514-0-9"
+       transform="matrix(0.91578453,0,0,0.91578453,95.052345,468.41734)">
+      <rect
+         ry="0.42989704"
+         y="228.80554"
+         x="95.405853"
+         height="7.1650519"
+         width="17.979399"
+         id="rect1508-0-1"
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.130176;stroke-opacity:1" />
+      <text
+         id="text1512-7-3"
+         y="233.8071"
+         x="98.167793"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583"
+           y="233.8071"
+           x="98.167793"
+           id="tspan1510-5-1"
+           sodipodi:role="line">Search</tspan></text>
+    </g>
+    <g
+       transform="matrix(0.84294446,0,0,0.84294446,-13.351272,484.32793)"
+       id="g2270"
+       style="display:inline">
+      <rect
+         style="opacity:1;fill:#550000;fill-opacity:1;stroke:none;stroke-width:0.17832;stroke-opacity:1"
+         id="rect2264"
+         width="33.73761"
+         height="7.1650519"
+         x="96.033615"
+         y="228.80554"
+         ry="0.42989704" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:3.88056px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="101.0279"
+         y="233.8071"
+         id="text2268"><tspan
+           sodipodi:role="line"
+           id="tspan2266"
+           x="101.0279"
+           y="233.8071"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.88056px;font-family:'Franklin Gothic Demi';-inkscape-font-specification:'Franklin Gothic Demi';fill:#ffffff;stroke-width:0.264583">Add New Order</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.86505"
+       y="759.56335"
+       id="text2274"><tspan
+         sodipodi:role="line"
+         id="tspan2272"
+         x="132.86505"
+         y="759.56335"
+         style="font-size:2.82222px;stroke-width:0.264583">Paracetamol 2pcs counting</tspan></text>
+    <rect
+       y="689.77881"
+       x="153.93004"
+       height="0.94435614"
+       width="2.8330684"
+       id="rect2283"
+       style="fill:#e6e6e6;fill-opacity:1;stroke:none;stroke-width:0.332999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+</svg>
